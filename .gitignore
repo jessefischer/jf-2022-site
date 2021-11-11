@@ -6,3 +6,8 @@
 
 # lerna files
 /lerna-debug.log
+package-lock.json
+package.json
+studio/package-lock.json
+web/package-lock.json
+studio/config/@sanity/form-builder.json
